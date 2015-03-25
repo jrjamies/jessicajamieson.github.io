@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Portfolio
+title:            
 locale:           en_US
 url:              http://jrjamies.github.io/portfolio/
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Jessica Jamieson
   avatar: bio-photo.png
-  bio: "TODO Describe your self."
+  bio: ""
   email: jessicajamieson@live.ca
   disqus-shortname: 
   twitter: jessicajamieson
