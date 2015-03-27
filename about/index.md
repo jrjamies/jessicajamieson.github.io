@@ -7,4 +7,12 @@ comments: false
 share: false
 ---
 
-My who's-that-girl bio will go here.
+I am a Computer Science student from the University of Waterloo, <br/>
+with minors in Computational Mathematics and Fine Arts. 
+
+I have a passion for all things graphics, a keen interest in <br/>
+exploring the connections between art and technology. 
+
+When I am not investigating the latest web technologies, you <br/>
+can find me scaling a rock wall, experimenting with a new recipe, <br/>
+ or curled up with good book and a mug of chai tea.
