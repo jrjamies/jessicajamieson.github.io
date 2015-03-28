@@ -19,6 +19,6 @@ I have a passion for all things graphics, a keen interest in <br/>
 exploring the connections between art and technology. 
 
 When I am not investigating the latest web technologies, you <br/>
-can find me scaling a rock wall, experimenting with a new recipe, <br/>
+can find me climbing a rock wall, experimenting with new recipes, <br/>
 or curled up with good book and a mug of chai tea.
 
