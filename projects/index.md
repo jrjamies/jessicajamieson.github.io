@@ -7,5 +7,3 @@ comments: false
 share: false
 category: projects
 ---
-
-A selection of my favourite software/art projects will go here.
