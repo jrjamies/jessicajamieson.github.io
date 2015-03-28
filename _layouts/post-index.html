@@ -34,6 +34,9 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
+    {% if content %}
+      {{content}}
+    {% endif %}
     {% for post in site.posts %} 
       {% if post.category == page.category %} 
     <!--{% unless post.next %}
