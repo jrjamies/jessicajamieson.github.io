@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpengGL Aquarium
-excerpt: "An interactive aquarium built using C++ and OpenGL for the final project of my Computer Graphics course."
+excerpt: "This interactive OpenGL and C++ project was the final assignment for a Computer Graphics course at the University of Waterloo."
 modified: 2015-03-27
 tags: [software, opengl, graphics, aquarium]
 comments: false
@@ -15,7 +15,7 @@ This project respresents my pride and joy of Fall 2014. After a large number of 
 
 ![Graphics Aquarium]({{ site.url }}/images/graphics.jpg "Aquarium")
 
-This interactive OpenGL and C++ project was the final assignment for a Computer Graphics course at the University of Waterloo. We were required to implement 10 objectives, as well as consider everything we'd learned prior in the course. A few highlights for me were shader programming, bump mapping, particle systems, fractal terrain, and motion path animation.
+This interactive OpenGL and C++ project was the final assignment for a Computer Graphics course at the University of Waterloo. We were required to implement 10 objectives, while considering everything we'd learned prior in the course. A few highlights for me were shader programming, bump mapping, particle systems, fractal terrain, and motion path animation.
 
 Shader programming was great because I got to indulge my artsy side a little, and play around with the visuals. I implemented toon shading (pictured below), and added fog effects to the reflection in the glass for added realism. Particle systems were also fun because, well, <a href="http://media.giphy.com/media/LmY8STYyvCtiM/giphy.gif" target="_blank">bubbles</a>! 
 
