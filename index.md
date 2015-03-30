@@ -7,8 +7,8 @@ comments: false
 share: false
 ---
 
-__Note:__ I am currently in the process of populating this site with <br/>
-content. For more, see <a href="http://jrjamieson.tumblr.com" target="_blank">my previous portfolio site</a>
+__Note:__ I am currently in the process of adding content to this new site. <br/>
+For more, see <a href="http://jrjamieson.tumblr.com" target="_blank">my previous portfolio site</a>
 
 ----------------
 
