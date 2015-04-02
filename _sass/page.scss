@@ -286,6 +286,13 @@ $button-size: 1.5rem;
 			float:left;
 			padding-right: 5px;
 			@include clearfix;
+
+			&.gallery {
+				@include rounded(5px);
+				padding-bottom: 5px;
+				//max-width: 207px;
+				max-height: 150px;
+			}
 		}
 	}
 }
