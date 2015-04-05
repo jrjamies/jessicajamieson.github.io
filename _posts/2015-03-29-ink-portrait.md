@@ -3,7 +3,7 @@ layout: post
 title: 
 excerpt: ""
 modified: 2015-03-29
-tags: [illustrator, artwork, veggies]
+tags: [artwork, ink, portrait]
 comments: false
 share: false
 projectImage:
@@ -11,6 +11,6 @@ projectImage:
   category: artwork
 ---
 
-![Ink]({{ site.url }}/images/veggies.jpg "Ink")
+![Ink]({{ site.url }}/images/ink.png)
 
 Ink 18x24”
