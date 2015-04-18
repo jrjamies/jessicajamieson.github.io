@@ -6,11 +6,13 @@ modified: 2015-03-24
 comments: false
 share: false
 ---
+ <i class="fa fa-2x fa-graduation-cap"></i>
+ <i class="fa fa-2x fa-terminal"></i>
+ <i class="fa fa-2x fa-puzzle-piece"></i>
+ <i class="fa fa-2x fa-paint-brush"></i>
+ <i class="fa fa-2x fa-coffee"></i>
 
-__Note:__ I am currently in the process of adding content to this new site. <br/>
-For more, see <a href="http://jrjamieson.tumblr.com" target="_blank">my previous portfolio site</a>
 
-----------------
 
 I am a Computer Science student from the University of Waterloo, <br/>
 with minors in Computational Mathematics and Fine Arts. 

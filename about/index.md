@@ -7,6 +7,10 @@ comments: false
 share: false
 ---
 
+// **********************************************
+// NOTE: About page links to index.md, not here!
+// **********************************************
+
 I am a Computer Science student from the University of Waterloo, <br/>
 with minors in Computational Mathematics and Fine Arts. 
 
