@@ -54,17 +54,20 @@
           {% else %}
             <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 
-            <p>
+            
               {% if post.projectImage %}
-                <a href="{{ site.url }}{{ post.url }}" title="{{post.title}}">
-                <img src=
-                  {% if post.projectImage.feature contains 'http' %}
-                    "{{ post.projectImage.feature }}"
-                  {% else %}
-                    "{{ site.url }}/images/{{ post.projectImage.feature }}"
-                  {% endif %}
-                alt="{{ post.title }} feature image"></a>
+                <div class="img-container">
+                  <a href="{{ site.url }}{{ post.url }}" title="{{post.title}}">
+                  <img style="margin-top:{{post.projectImage.margin-top}}px" src=
+                    {% if post.projectImage.feature contains 'http' %}
+                      "{{ post.projectImage.feature }}"
+                    {% else %}
+                      "{{ site.url }}/images/{{ post.projectImage.feature }}"
+                    {% endif %}
+                  alt="{{ post.title }} feature image"></a>
+                </div>
               {% endif %}
+            <p>
               {{ post.excerpt | strip_html | truncate: 160 }}
             </p>
           {% endif %}
