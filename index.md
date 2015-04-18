@@ -12,8 +12,6 @@ share: false
  <i class="fa fa-2x fa-paint-brush"></i>
  <i class="fa fa-2x fa-coffee"></i>
 
-
-
 I am a Computer Science student from the University of Waterloo, <br/>
 with minors in Computational Mathematics and Fine Arts. 
 

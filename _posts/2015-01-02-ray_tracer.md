@@ -11,5 +11,5 @@ projectImage:
   margin-top: -40
 category: projects
 ---
-One of the assignments for the Graphics course at the University of Waterloo was to implement a ray tracer. The assignment involved inverse and ray transformations, ray intersecton with spheres, cubes, and meshes of convex planar polygons, bounding volumes, supersampling, Lua scripting, and the Phong lighting model.
+I implemented this ray tracer for an assignment in Computer Graphics. The assignment involved inverse and ray transformations, ray intersecton with spheres, cubes, and meshes of convex planar polygons, bounding volumes, supersampling, Lua scripting, and the Phong lighting model.
 <img src="{{ site.url }}/images/raytrace_nonhier_ss.png" alt="Ray Tracer" style="display:block; margin-top: 15px;">
