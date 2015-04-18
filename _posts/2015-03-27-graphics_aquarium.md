@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpengGL Aquarium
-excerpt: "This interactive OpenGL and C++ project was the final assignment for a Computer Graphics course at the University of Waterloo."
+excerpt: "An interactive OpenGL and C++ aquarium created as the final project for a Computer Graphics course."
 modified: 2015-03-27
 tags: [software, opengl, graphics, aquarium]
 comments: false
