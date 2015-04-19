@@ -54,7 +54,9 @@
           {% else %}
             <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 
-            
+            <p>
+              {{ post.excerpt | strip_html | truncate: 160 }}
+            </p>
               {% if post.projectImage %}
                 <div class="img-container">
                   <a href="{{ site.url }}{{ post.url }}" title="{{post.title}}">
@@ -67,11 +69,10 @@
                   alt="{{ post.title }} feature image"></a>
                 </div>
               {% endif %}
-            <p>
-              {{ post.excerpt | strip_html | truncate: 160 }}
-            </p>
           {% endif %}
+          <hr />
         </article>
+
         <div style="clear:both;"></div>
       {% endif %}
     {% endfor %}
