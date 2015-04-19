@@ -10,7 +10,7 @@ share: false
  <i class="fa fa-2x fa-terminal"></i>
  <i class="fa fa-2x fa-puzzle-piece"></i>
  <i class="fa fa-2x fa-paint-brush"></i>
- <i class="fa fa-2x fa-coffee"></i>
+ <img style="height:35px;margin-top:-20px;" src="images/teapot.png">
 
 I am a Computer Science student from the University of Waterloo, <br/>
 with minors in Computational Mathematics and Fine Arts. 
