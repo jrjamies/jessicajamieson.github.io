@@ -12,13 +12,12 @@ share: false
  <i class="fa fa-2x fa-paint-brush"></i>
  <img style="height:35px;margin-top:-25px;" src="images/teapot.png">
 
-I am a Computer Science student from the University of Waterloo, <br/>
-with minors in Computational Mathematics and Fine Arts. 
+I am a soon-to-be graduate from Computer Science at the University<br/> 
+of Waterloo, with minors in Computational Mathematics and Fine Arts. 
 
-I have a passion for all things graphics, a keen interest in <br/>
-exploring the connections between art and technology. 
+I have a passion for all things graphics, a keen interest in exploring the<br/>
+connections between art and technology. 
 
-When I am not investigating the latest web technologies, you <br/>
-can find me climbing a rock wall, experimenting with new recipes, <br/>
-or curled up with good book and a mug of chai tea.
-
+When I am not investigating the latest techonologies, you can find me<br/>
+climbing a rock wall, experimenting with new recipes, or curled up<br/>
+with good book and a mug of chai tea.
