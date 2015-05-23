@@ -28,6 +28,10 @@ article img {
 	-ms-interpolation-mode: bicubic; 
 }
 
+article video {
+  max-width: 100%;
+}
+
 svg:not(:root) {
 		overflow: hidden; 
 }
