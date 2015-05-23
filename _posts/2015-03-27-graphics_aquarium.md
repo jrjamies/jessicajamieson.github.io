@@ -17,7 +17,7 @@ This project respresents my pride and joy of Fall 2014. After a large number of 
 <!-- ![Graphics Aquarium]({{ site.url }}/images/graphics.jpg) -->
 
 <p><video controls>
-  <source src="{{ site.url }}/images/fish.webm" type="video/webm">
+  <source src="{{ site.url }}/images/Fish.webm" type="video/webm">
 Your browser does not support the video tag.
 </video></p>
 
