@@ -14,7 +14,12 @@ category: projects
 This project respresents my pride and joy of Fall 2014. After a large number of hardworking and sleepless hours, I present to you my aquarium:
 -->
 
-![Graphics Aquarium]({{ site.url }}/images/graphics.jpg)
+<!-- ![Graphics Aquarium]({{ site.url }}/images/graphics.jpg) -->
+
+<p><video controls>
+  <source src="{{ site.url }}/images/fish.webm" type="video/webm">
+Your browser does not support the video tag.
+</video></p>
 
 This interactive OpenGL and C++ project was the final assignment for a Computer Graphics course at the University of Waterloo. We were required to design and implement 10 objectives based on new course material, while also considering everything we'd learned prior in the course. A few highlights for me were shader programming, bump mapping, particle systems, fractal terrain, and motion path animation.
 
