@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpengGL Aquarium
+title: OpenGL Aquarium
 excerpt: "An interactive OpenGL and C++ aquarium created as the final project for a Computer Graphics course."
 modified: 2015-03-27
 tags: [software, opengl, graphics, aquarium]
