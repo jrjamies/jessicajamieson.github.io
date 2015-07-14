@@ -11,5 +11,5 @@ projectImage:
   margin-top: -40
 category: projects
 ---
-I implemented this ray tracer for an assignment in Computer Graphics. The project involved inverse and ray transformations, ray intersection with spheres, cubes, and meshes of convex planar polygons, bounding volumes, supersampling, Lua scripting, and the Phong lighting model.
+I implemented this ray tracer for an assignment in Computer Graphics. The project involved inverse and ray transformations, ray intersection with spheres, cubes, and meshes of convex planar polygons, bounding volumes, super-sampling, Lua scripting, and the Phong lighting model.
 <img src="{{ site.url }}/images/raytrace_nonhier_ss.png" alt="Ray Tracer" style="display:block; margin-top: 15px;">
