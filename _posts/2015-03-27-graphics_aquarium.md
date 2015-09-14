@@ -10,9 +10,6 @@ projectImage:
   feature: graphics.jpg
 category: projects
 ---
-<!--
-This project respresents my pride and joy of Fall 2014. After a large number of hardworking and sleepless hours, I present to you my aquarium:
--->
 
 <!-- ![Graphics Aquarium]({{ site.url }}/images/graphics.jpg) -->
 
