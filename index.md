@@ -11,7 +11,7 @@ share: false
  <i class="fa fa-2x fa-paint-brush"></i>
  <i class="fa fa-2x fa-paw"></i>
   <i class="fa fa-2x fa-book"></i>
- <img style="height:35px;margin-top:-25px;" src="../images/teapot.png">
+ <img style="height:35px;margin-top:-25px;" src="images/teapot.png">
 
 I am currently a Technical Director at Walt Disney Animation Studios, with <br/>
 an educational background in Computer Science, Computational Math, and Fine Arts<br/>
