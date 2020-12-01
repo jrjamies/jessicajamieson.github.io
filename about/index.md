@@ -6,10 +6,11 @@ modified: 2015-03-24
 comments: false
 share: false
 ---
- <i class="fa fa-2x fa-graduation-cap"></i>
  <i class="fa fa-2x fa-terminal"></i>
  <i class="fa fa-2x fa-puzzle-piece"></i>
  <i class="fa fa-2x fa-paint-brush"></i>
+ <i class="fa fa-2x fa-paw"></i>
+  <i class="fa fa-2x fa-book"></i>
  <img style="height:35px;margin-top:-25px;" src="../images/teapot.png">
 
 I am currently a Technical Director at Walt Disney Animation Studios, with <br/>
